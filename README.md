@@ -1,6 +1,6 @@
 ## HAComb
 
-Code for our submission ICME-2025 #477 paper
+Code for our submission ICME-2025 paper
 
 ### Data Source
 

@@ -1,6 +1,6 @@
 ## HAComb
 
-Code for our submission ICME-2025 paper
+Code for our ICME 2025 paper: "Improving Human-AI Collaboration in Medical Diagnosis with Combination Advice"
 
 ### Data Source
 
